@@ -15,19 +15,19 @@ Welcome to **Ayurvedic Frontend**, a sleek and minimalistic user interface built
 
 ## 📦 **Installation and Setup**
 
-1. **Clone the repository:* "https://github.com/Mukeshkumar1127/Ayur-Ecommerce-Django-React.git" *
+1. **Clone the repository:* "https://github.com/Mukeshkumar1127/Ecommerce-Django-React" *
    ```bash
 
    git clone 
-   cd Ayur_Backend_Code
+   cd ayur-react
    ```
 
-2. **Install dependencies:**
+3. **Install dependencies:**
    ```bash
    npm install
    ```
 
-3. **Start the development server:**
+4. **Start the development server:**
    ```bash
    npm run dev
    ```
