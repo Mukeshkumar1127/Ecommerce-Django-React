@@ -21,12 +21,14 @@ Welcome to **Ayurvedic Store**, a modern e-commerce API built using Django Rest 
 
 ## 📦 **Installation and Setup**
 
-1. **Clone the repository:* "https://github.com/Mukeshkumar1127/Ayur-Ecommerce-Django-React.git" *
+1. **Clone the repository:* "https://github.com/Mukeshkumar1127/Ecommerce-Django-React.git" *
+
+2. 
    ```bash
    cd ayur-Django
    ```
 
-2. **Create a virtual environment and activate it:**
+3. **Create a virtual environment and activate it:**
    ```bash
      # Creating the Virtual Environment
    virtualenv env   # On Mac/Linux
@@ -37,12 +39,12 @@ Welcome to **Ayurvedic Store**, a modern e-commerce API built using Django Rest 
    venv\Scripts\activate      # On Windows 
    ```
 
-3. **Install dependencies:**
+4. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Set up the environment variables:**
+5. **Set up the environment variables:**
    Create a `.env` file in the root directory with the following variables:
    ```env
    SECRET_KEY=your_secret_key_here
@@ -54,12 +56,12 @@ Welcome to **Ayurvedic Store**, a modern e-commerce API built using Django Rest 
    FLUTTERWAVE_SECRET_KEY=your_flutterwave_secret_key_here
    ```
 
-5. **Apply database migrations:**
+6. **Apply database migrations:**
    ```bash
    python manage.py migrate
    ```
 
-6. **Run the development server:**
+7. **Run the development server:**
    ```bash
    python manage.py runserver 8001
    ```
