@@ -15,9 +15,10 @@ Welcome to **Ayurvedic Frontend**, a sleek and minimalistic user interface built
 
 ## 📦 **Installation and Setup**
 
-1. **Clone the repository:* "https://github.com/Mukeshkumar1127/Ecommerce-Django-React" *
-   ```bash
+1. **Clone the repository:* "https://github.com/Mukeshkumar1127/Ecommerce-Django-React.git" *
 
+2. 
+   ```bash
    git clone 
    cd ayur-react
    ```
