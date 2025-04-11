@@ -14,7 +14,7 @@ Welcome to **Ayurvedic Store**, a modern e-commerce API built using Django Rest 
 
 ## 🛠️ **Technologies Used**
 - **Backend**: Django Rest Framework (DRF)
-- **Database**: SQlite3
+- **Database**: mysqlSQl
 - **Payment Gateways**: PayPal, Flutterwave
 
 ---
@@ -23,7 +23,7 @@ Welcome to **Ayurvedic Store**, a modern e-commerce API built using Django Rest 
 
 1. **Clone the repository:* "https://github.com/Mukeshkumar1127/Ayur-Ecommerce-Django-React.git" *
    ```bash
-   cd Ayur_Store_Code
+   cd ayur-Django
    ```
 
 2. **Create a virtual environment and activate it:**
