@@ -92,9 +92,9 @@ WSGI_APPLICATION = 'shoppit.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'shoppit',
+        'NAME': 'shoppit',  # your DB name
         'USER': 'root',
-        'PASSWORD': 'Shruthi@1123',
+        'PASSWORD': 'jesus@32',
         'HOST': 'localhost',
         'PORT': '3306',
         'OPTIONS': {
@@ -102,6 +102,7 @@ DATABASES = {
         },
     }
 }
+
 
 
 # Password validation
